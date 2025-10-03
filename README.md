@@ -38,5 +38,7 @@
 
 📱 **Phone:** +970568833066
 
+🔗 **LinkedIn:** linkedin.com/in/mnawawra
+
 </div>
 
