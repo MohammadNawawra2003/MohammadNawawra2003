@@ -1,7 +1,3 @@
-# Hello, I'm Mohammad Nawawra
-
-**Computer Simulation Engineer | Mathematician & Physicist Passionate about unraveling the universe's complexities through models, numbers, and physics. Currently enhancing skills in Odoo Development, Python, and Backend Development.**
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
