@@ -1,36 +1,66 @@
-<h1 align="center">Hi 👋, I'm Mohammad Alnawawreh</h1>
-<h3 align="center">Computer Simulation Engineer | Mathematician & Physicist</h3>
+# Hi 👋, I'm Mohammad Nawawra
 
-<p align="center">Passionate about unraveling the universe's complexities through models, numbers, and physics. Currently enhancing skills in Odoo Development, Python, and Backend Development.</p>
+**Computer Simulation Engineer | Mathematician & Physicist Passionate about unraveling the universe's complexities through models, numbers, and physics. Currently enhancing skills in Odoo Development, Python, and Backend Development.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mnawawra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnawawra" height="30" width="40" /></a>
-  <a href="mailto:mnawawra900@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mnawawra900@gmail.com" height="30" width="40" /></a>
-</p>
+## 🔭 I'm currently working on
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+Odoo Development Intern (remote) — building custom modules, backend systems, and managing databases.
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadNawawra2003&show_icons=true&locale=en&layout=compact&theme=dracula" alt="MohammadNawawra2003 Top Languages" />
-</p>
+## 🌱 I’m learning Python, Odoo, and backend development.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadNawawra2003&show_icons=true&locale=en&theme=dracula" alt="MohammadNawawra2003 GitHub Stats" />
-</p>
+## 👀 I’m interested in simulation, programming, and web tools.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadNawawra2003&theme=dracula" alt="MohammadNawawra2003 GitHub Streak" />
-</p>
+## 🔝 Most Used Languages
 
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=default"/>
+</div>
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> 
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> 
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> 
+
+## 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](mnawawra) 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="left">
+
+📧 **Email:** [mnawawra900@gmail.com](mailto:mnawawra900@gmail.com)
+
+📱 **Phone:** +970568833066
+
+</div>
+
+---
+⭐️ From [Mohammad Nawawra](https://github.com/)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count" />
+</div>
