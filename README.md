@@ -19,15 +19,3 @@
 ### 🧠 AI/ML
 
 <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> 
-
-
-## 📫 How to reach me
-
-<div align="left">
-
-📧 **Email:** [mnawawra900@gmail.com](mailto:mnawawra900@gmail.com)
-
-🔗 **LinkedIn:** [linkedin.com/in/mnawawra](https://www.linkedin.com/in/mnawawra/)
-
-</div>
-
