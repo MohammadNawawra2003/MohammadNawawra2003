@@ -12,9 +12,8 @@ Odoo Development Intern (remote) — building custom modules, backend systems, a
 
 ## 🔝 Most Used Languages
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadNawawra2003&layout=compact&langs_count=10&theme=default"/>
 </div>
 
 ## 💻 Tech Stack
@@ -29,7 +28,7 @@ Odoo Development Intern (remote) — building custom modules, backend systems, a
 
 ### 🚀 DevOps
 
-<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-9370db?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 ### 💬 Languages
 
