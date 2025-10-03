@@ -2,19 +2,10 @@
 
 **Computer Simulation Engineer | Mathematician & Physicist Passionate about unraveling the universe's complexities through models, numbers, and physics. Currently enhancing skills in Odoo Development, Python, and Backend Development.**
 
-## 🔭 I'm currently working on
 
-Odoo Development Intern (remote) — building custom modules, backend systems, and managing databases.
+🌱 I’m learning Python, Odoo, and backend development.
 
-## 🌱 I’m learning Python, Odoo, and backend development.
-
-## 👀 I’m interested in simulation, programming, and web tools.
-
-## 🔝 Most Used Languages
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadNawawra2003&layout=compact&langs_count=10&theme=default"/>
-</div>
+👀 I’m interested in simulation, programming, and web tools.
 
 ## 💻 Tech Stack
 
@@ -38,13 +29,6 @@ Odoo Development Intern (remote) — building custom modules, backend systems, a
 
 <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> 
 
-## 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](mnawawra) 
-
-</div>
 
 ## 📫 How to reach me
 
