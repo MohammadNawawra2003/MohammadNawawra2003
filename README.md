@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Nawawra
+# Hello, I'm Mohammad Nawawra
 
 **Computer Simulation Engineer | Mathematician & Physicist Passionate about unraveling the universe's complexities through models, numbers, and physics. Currently enhancing skills in Odoo Development, Python, and Backend Development.**
 
@@ -30,8 +30,6 @@
 <div align="left">
 
 📧 **Email:** [mnawawra900@gmail.com](mailto:mnawawra900@gmail.com)
-
-📱 **Phone:** +970568833066
 
 🔗 **LinkedIn:** [linkedin.com/in/mnawawra](https://www.linkedin.com/in/mnawawra/)
 
