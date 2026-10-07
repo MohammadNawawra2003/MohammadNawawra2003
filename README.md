@@ -211,16 +211,6 @@ Engineering simulation internship focused on structural analysis of a 3D cantile
 
 ---
 
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadNawawra2003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="95%" />
-
-</div>
-
----
-
 ## 🟣 Current Focus
 
 ```yaml
